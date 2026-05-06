@@ -5,9 +5,9 @@ import os
 # CONFIG
 # ======================
 
-URL = "https://example.com"
+URL = "https://google.com"
 
-TARGET_TEXT = "Buy Now"
+TARGET_TEXT = "search"
 
 BOT_TOKEN = os.getenv("BOT_TOKEN")
 CHAT_ID = os.getenv("CHAT_ID")

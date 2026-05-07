@@ -5,7 +5,7 @@ import os
 # CONFIG
 # ======================
 
-URL = "https://google.com"
+URL = "https://www.google.com/"
 
 TARGET_TEXT = "search"
 

@@ -9,8 +9,8 @@ URL = "https://www.google.com/"
 
 TARGET_TEXT = "search"
 
-BOT_TOKEN = os.getenv("BOT_TOKEN")
-CHAT_ID = os.getenv("CHAT_ID")
+BOT_TOKEN = "8295940627:AAFIkIRVP0HiLFBpuXCXNacRAmaud9PM4UY"
+CHAT_ID = "622698958"
 
 # ======================
 

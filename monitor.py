@@ -14,7 +14,6 @@ CHAT_ID = "622698958"
 
 # ======================
 
-
 def send_telegram(msg):
 
     api_url = f"https://api.telegram.org/bot{BOT_TOKEN}/sendMessage"
